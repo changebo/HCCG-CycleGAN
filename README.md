@@ -1,7 +1,7 @@
 # HCCG-CycleGAN
 
 [Generating Handwritten Chinese Characters using CycleGAN](https://arxiv.org/abs/1801.08624)  
-Bo Chang*, Qiong Zhang*, Shenyi Pan, Lili Meng  
+[Bo Chang*](https://www.stat.ubc.ca/~bchang/), [Qiong Zhang*](https://www.stat.ubc.ca/~qiong.zhang/), [Shenyi Pan](https://www.linkedin.com/in/roypan), [Lili Meng](https://lilimeng1103.wixsite.com/research-site)  
 WACV 2018.
 
 ## Abstract
