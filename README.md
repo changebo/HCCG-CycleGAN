@@ -42,3 +42,12 @@ DATA_ROOT=./datasets/1252-c-0.1-0.1 name=1252-c-dense5 phase=test th test.lua
 - `densenet_7blocks`
 - `densenet_8blocks`
 
+## BibTeX
+```
+@inproceedings{chang2018generating, 
+  title={Generating Handwritten Chinese Characters Using CycleGAN}, 
+  author={Chang, Bo and Zhang, Qiong and Pan, Shenyi and Meng, Lili}, 
+  booktitle={IEEE Winter Conference on Applications of Computer Vision}, 
+  year={2018} 
+}
+```
